@@ -1,7 +1,7 @@
 
 ### RuleBook for `ruby-binary-text-converter` Repo
 
-1. **Code Author cannot be changed**: The original author of the code must always be credited as Anas.
+1. **Code Author cannot be changed**: The original author of the code must not be changed unless permission is granted.
 2. **Code Can Be Customized and Changed Freely**: Users are allowed to modify and personalize the code to suit their needs.
 3. **Code Can Be Forked**: The repository can be forked by other users without restrictions.
 4. **Copying the Code is Allowed**: Users are free to copy the code for personal or commercial purposes.
