@@ -1,0 +1,26 @@
+
+### RuleBook for `ruby-binary-text-converter` Repo
+
+1. **Code Author cannot be changed**: The original author of the code must always be credited as Anas.
+2. **Code Can Be Customized and Changed Freely**: Users are allowed to modify and personalize the code to suit their needs.
+3. **Code Can Be Forked**: The repository can be forked by other users without restrictions.
+4. **Copying the Code is Allowed**: Users are free to copy the code for personal or commercial purposes.
+5. **No Commercial Attribution Required**: The code can be used in commercial projects without the need to credit the original author publicly.
+6. **Modifications Must Retain Author’s Original Intent**: While the code can be changed, its core functionality as a binary converter should be maintained.
+7. **Cannot Be Sold as a Standalone Product**: The original or modified code cannot be sold as a standalone product but can be included in larger projects.
+8. **Contributions Must Be Open-Source**: Any contributions or pull requests to this repository must follow the same open-source principles.
+9. **Forked Versions Must Link to the Original Repo**: All forks must include a link back to the original repository.
+10. **Derivative Works Should Be Made Public**: If significant changes are made, the derivative works should be shared publicly unless used privately.
+11. **Bugs Can Be Reported Freely**: Users are encouraged to report bugs and contribute to improving the project.
+12. **Code Integrity Must Be Maintained**: While customization is allowed, users should avoid corrupting or breaking the core functionality of the code.
+13. **No Warranty**: The code is provided as-is with no guarantees of performance or security.
+14. **Respect Licenses of Third-Party Dependencies**: If the code uses third-party libraries or dependencies, their licenses must be respected.
+15. **No Malicious Use**: The code cannot be used for illegal or malicious purposes.
+16. **Contributors Should Be Acknowledged**: Significant contributions made by others should be credited appropriately in the project.
+17. **Issues Can Be Discussed in the Repo**: Users are welcome to discuss issues and suggestions using GitHub's issues section.
+18. **Educational Use Encouraged**: The code can be used freely for educational purposes or in learning environments.
+19. **No Trademark on Repo Name**: The repository name cannot be trademarked by other users.
+20. **No Advertising of Modified Versions Without Consent**: Public advertising of modified versions is prohibited without prior consent from the original author.
+21. **Pull Requests Are Welcome**: The repository is open to contributions via pull requests, but they will be reviewed before merging.
+
+This rulebook is designed to promote an open, collaborative environment for working with the `ruby-binary-text-converter` project, while ensuring that the original author and code integrity are respected.
